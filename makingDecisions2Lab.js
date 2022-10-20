@@ -1,5 +1,5 @@
 // For problems 1-2 use the following lines of code:
-var arr = [10,20,30,40,50,60]
+let arr = [10,20,30,40,50,60]
 
 ////////// PROBLEM 1 //////////
 /*
@@ -8,6 +8,8 @@ var arr = [10,20,30,40,50,60]
 
 //Code Here
 
+let firstItem = arr[0];
+console.log('first item:', firstItem)
 
 ////////// PROBLEM 2 //////////
 /*
